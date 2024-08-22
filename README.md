@@ -1,6 +1,6 @@
 # Project Startup Guide  
   
-Welcome to this full-stack project! This project combines a frontend built with a modern JavaScript framework (like React,  etc. depending on the `frontend` folder content) and a backend developed using Node.js. Below is a detailed startup guide to help you quickly get up and running with the project.  
+Hi! This project combines a frontend built with a modern JavaScript framework (like React,  etc. depending on the `frontend` folder content) and a backend developed using Node.js. Below is a detailed startup guide to help you quickly get up and running with the project.  
   
 ## Prerequisites  
   
